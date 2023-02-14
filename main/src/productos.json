@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop 01",
+    "description": "256HD, i3",
+    "code": "1257",
+    "price": 2500,
+    "status": "true",    
+    "stock": 25,
+    "category": "Laptops",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "Teclado",
+    "description": "QWERTY",
+    "code": "0024",
+    "price": 50,
+    "status": "true",    
+    "stock": 10,
+    "category": "Accesorios",
+    "thumbnails": []   
+  },
+  {
+    "id": 3,
+    "title": "Mouse",
+    "description": "Optico",
+    "code": "5426",
+    "price": 30,
+    "status": "true",    
+    "stock": 30,
+    "category": "Accesorios",
+    "thumbnails": [
+      "ratoncito"
+    ]    
+  },
+  {
+    "id": 4,
+    "title": "Smartphone",
+    "description": "S23",
+    "code": "3698",
+    "price": 155,
+    "status": "true",
+    "stock": 25,
+    "category": "smartphone",
+    "thumbnails": [
+      "foto S23"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Funda Verde",
+    "description": "Funda Verde para S23",
+    "code": "abds256",
+    "price": 5,
+    "status": true,
+    "stock": 15,
+    "category": "Accesorio Celurares",
+    "thumbnails": []
+  }
+]
